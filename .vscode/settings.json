@@ -1,3 +1,5 @@
 {
-    "appService.showBuildDuringDeployPrompt": false
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/c7396722-d8dc-46c6-8b69-b79075da8794/resourceGroups/rg_01/providers/Microsoft.Web/sites/hellowebapp",
+    "appService.deploySubpath": "."
 }
